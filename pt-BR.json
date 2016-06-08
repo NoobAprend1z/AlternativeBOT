@@ -75,7 +75,7 @@
     "nolimitspecified": "\/me [@%%NAME%%] Limite não especificado.",
     "invalidlimitspecified": "\/me [@%%NAME%%] Limite inválido.",
     "invalidpositionspecified": "\/me [@%%NAME%%] posição inválida.",
-    "whois": "\/me [%%NAME1%%] Usuário: %%NAME2%%, ID: %%ID%%, Rank: %%RANK%%, Registro: %%JOINED%%, N\u00edvel: %%LEVEL%%, Linguagem: %%LANGUAGE%%, Avatar: %%AVATAR%%, Perfil: %%PROFILE%%",
+    "whois": "\/me [%%NAME1%%] Usuário: %%NAME2%%, ID: %%ID%%, Rank: %%RANK%%, Registro: %%JOINED%%, Nível: %%LEVEL%%, Linguagem: %%LANGUAGE%%, Avatar: %%AVATAR%%, Perfil: %%PROFILE%%",
     "toggleon": "\/me [@%%NAME%%] %%FUNCTION%% ativado.",
     "toggleoff": "\/me [@%%NAME%%] %%FUNCTION%% desativado.",
     "cmddeletion": "Remoção de comandos",
@@ -176,6 +176,6 @@
     "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W\/%%GRABS%%G\/%%MEHS%%M.",
     "thorNotClose": "\/me @%%NAME%% Você não é digno nem de chegar perto do martelão.",
     "thorcd": "\/me @%%NAME%% você pode tentar levantar o martelo em %%TIME%% minutos.",
-    "thorWorthy": "\/me @%%NAME%% você é digno do martelão ( ͡° ͜ʖ ͡°) :hammer:. Parabéns!",
+    "thorWorthy": "\/me @%%NAME%% você é digno do martelão :hammer:. Parabéns!",
     "thorNotWorthy": "\/me @%%NAME%% você não é digno  do martelão."
 }
