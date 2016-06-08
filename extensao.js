@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "AlternativeBOT",
       language: "Portuguese",
-      chatLink: "https://raw.githubusercontent.com/NoobAprend1z/AlternativeBOT/master/pt-BR.json",
+      chatLink: "https://rawgit.com/NoobAprend1z/AlternativeBOT/master/pt-BR.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 50, // 1-200
