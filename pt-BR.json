@@ -36,7 +36,7 @@
     "greyuser": "Apenas Seguranças ou superiores podem usar o bot.",
     "bouncer": "O bot não pode mover pessoas na fila de espera quando usado por um bouncer.",
     "online": "\/me %%BOTNAME%% v%%VERSION%% online!",
-    "welcome": "Olá %%NAME%%, seja bem vindo(a) a sala ▲#AlternativeRock▲, leia a descrição para evitar imprevistos. ",
+    "welcome": "Olá %%NAME%%, seja bem vindo(a) a sala Alternative Rock, leia a descrição para evitar imprevistos. ",
     "welcomeback": "Seja welcomido(a) amorzinho(a), %%NAME%%",
     "songknown": "@%%NAME%%, essa música está no histórico.",
     "notavailable": "\/me @%%NAME%%, a música que você tocou não está disponível.",
